@@ -1,0 +1,3 @@
+- name: Ping Server
+  ansible.builtin.debug:
+    msg: Hello World
